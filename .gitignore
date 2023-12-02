@@ -1,0 +1,7 @@
+# Logs
+*.sln
+.vs
+/werd/bin/
+/werd/Properties/
+/werd/appsettings.json
+werd/obj/
